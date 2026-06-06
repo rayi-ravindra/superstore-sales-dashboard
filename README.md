@@ -49,3 +49,18 @@ Key Insights
 - West region produced the highest profit.
 - Consumer segment contributed the largest share of revenue.
 - High discounts negatively impacted profitability.
+
+- ### Executive Overview
+![Executive Overview](Screenshots/Executive_Overview.png)
+
+### Sales Analysis
+![Sales Analysis](Screenshots/Sales_Analysis.png)
+
+### Profit Analysis
+![Profit Analysis](Screenshots/Profit_Analysis.png)
+
+### Customer Insights
+![Customer Insights](Screenshots/Customer_Insights.png)
+
+### Business Insights & Recommendations
+![Business Insights](Screenshots/Business_Insights.png)
