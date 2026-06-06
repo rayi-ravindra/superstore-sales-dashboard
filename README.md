@@ -51,16 +51,16 @@ Key Insights
 - High discounts negatively impacted profitability.
 
 - ### Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](Screenshots/Executive_Overview.png.png)
 
 ### Sales Analysis
-![Sales Analysis](Screenshots/Sales_Analysis.png)
+![Sales Analysis](Screenshots/Sales_Analysis.png.png)
 
 ### Profit Analysis
-![Profit Analysis](Screenshots/Profit_Analysis.png)
+![Profit Analysis](Screenshots/Profit_Analysis.png.png)
 
 ### Customer Insights
-![Customer Insights](Screenshots/Customer_Insights.png)
+![Customer Insights](Screenshots/Customer_Insights.png.png)
 
 ### Business Insights & Recommendations
-![Business Insights](Screenshots/Business_Insights.png)
+![Business Insights](Screenshots/Business_Insights.png.png)
